@@ -23,15 +23,14 @@
     "locals-item": "https://github.com/locals-world/locals-item.git",
     "locals-button": "https://github.com/locals-world/locals-button.git",
     "iron-pages": "^1.0.7",
-    "locals-proposal": "https://github.com/locals/locals-proposal.git",
+    "locals-proposal": "https://github.com/locals-world/locals-proposal.git",
     "web3-wallet": "^0.0.8",
     "neon-animation": "^1.2.1",
     "iron-collapse": "^1.0.8",
     "pikaday": "^1.4.0",
     "locals-progress": "https://github.com/locals-world/locals-progress.git",
     "underscore": "^1.8.3",
-    "locals-dropdown": "https://github.com/locals-world/locals-dropdown.git",
-    "locals-datetime": "https://github.com/A-Labs/locals-datetime.git"
+    "locals-dropdown": "https://github.com/locals-world/locals-dropdown.git"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
